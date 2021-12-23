@@ -1,16 +1,27 @@
-### Hi there 👋
+zeytroxxx/README.md
+👋 Hi, I'm fuezt
 
-<!--
-**fuezt/fuezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 making discord.js bot
 
-Here are some ideas to get you started:
+💪🏼 My Favorite Programming Language is Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I use Visual Studio Code for coding.
+
+🎈 More about me:
+const profile = {
+  username: fuezt ,
+  code: [Javascript,py],
+  experiences: {
+                        programmer: "Firox discord bot"
+               },
+  mail: ""
+  discord: "fuezt#1843"
+}
+ 
+
+
+
+
+🔨 Languages and Tools:
+Languages & Frameworks
+ |  |  |  |  |  |  |  |  

@@ -1,4 +1,3 @@
-zeytroxxx/README.md
 👋 Hi, I'm fuezt
 
 📚 making discord.js bot

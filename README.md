@@ -15,13 +15,6 @@ const profile = {
   discord: "fuezt#1843"
 }
 ```
- 
-<!--- 𝑬𝒎𝒂𝒊𝒍: <>
-- [𝑫𝒊𝒔𝒄𝒐𝒓𝒅](https://discord.com/users/824352942156283954)
--->
-
-
-
 
 🔨 Languages and Tools:
 <p align="center">

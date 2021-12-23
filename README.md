@@ -7,17 +7,18 @@
 👨‍💻 I use Visual Studio Code for coding.
 
 🎈 More about me:
+```javascript
 const profile = {
-  username: fuezt ,
-  code: [Javascript,py],
-  experiences: {
-                        programmer: "Firox discord bot"
-               },
+  username: fuezt,
+  code: [Javascript,Python],
   mail: ""
   discord: "fuezt#1843"
 }
+```
  
-[𝑫𝒊𝒔𝒄𝒐𝒓𝒅](https://discord.com/users/824352942156283954)
+<!--- 𝑬𝒎𝒂𝒊𝒍: <>
+- [𝑫𝒊𝒔𝒄𝒐𝒓𝒅](https://discord.com/users/824352942156283954)
+-->
 
 
 

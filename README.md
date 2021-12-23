@@ -23,4 +23,5 @@ const profile = {
 
 🔨 Languages and Tools:
 Languages & Frameworks
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png|https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png| 
+![javascript](https://user-images.githubusercontent.com/84825534/147220359-140dc292-3c20-42a4-8888-1027dff42acc.png)|![python](https://user-images.githubusercontent.com/84825534/147220507-9b097165-9048-42b1-8134-14845008c812.png)
+ 

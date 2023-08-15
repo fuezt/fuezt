@@ -10,7 +10,7 @@
 ```javascript
 const profile = {
   username: fuezt,
-  code: [Python,,JAV],
+  code: [Python,,Java],
   mail: ""
   discord: "fuezt#1843"
 }

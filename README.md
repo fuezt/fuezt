@@ -1,19 +1,11 @@
 👋 Hi, I'm fuezt
 
-📚 making discord.js bot
+📚 making mod in multiple games
 
-💪🏼 My Favorite Programming Language is Javascript.
+💪🏼 My Favorite Programming Language is Java.
 
-👨‍💻 I use Visual Studio Code for coding.
+👨‍💻 I use Visual Studio Code/IntelliJ IDEA for coding.
 
-🎈 More about me:
-```javascript
-const profile = {
-  username: fuezt,
-  code: [Python,,Java],
-  mail: ""
-  discord: "fuezt#1843"
-}
 ```
 
 🔨 Languages and Tools:

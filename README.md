@@ -6,8 +6,6 @@
 
 👨‍💻 I use Visual Studio Code/IntelliJ IDEA for coding.
 
-```
-
 🔨 Languages and Tools:
 <p align="center">
 	<b>Languages</b>
